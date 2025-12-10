@@ -43,4 +43,4 @@ Tulane University
 
 ## License
 
-[Add appropriate license]
+MIT
