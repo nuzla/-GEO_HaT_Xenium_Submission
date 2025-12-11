@@ -27,7 +27,6 @@ These findings suggest enhanced MRGPRX2 expression and mast cell activation may 
 ├── raw_data/           # Unaltered Xenium exports from 10x Genomics
 ├── processed_data/     # Aggregated counts, DESeq2 results, normalized matrices
 ├── code/               # R Markdown and scripts for analysis and figure generation
-└── figures/            # Manuscript figures
 ```
 
 ## Requirements
